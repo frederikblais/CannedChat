@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115272246594",
+    "project_id": "cannedchat-12105",
+    "storage_bucket": "cannedchat-12105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115272246594:android:a00366a3d298f3bcf794db",
+        "android_client_info": {
+          "package_name": "com.frederikblais.cannedchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115272246594-3eonspduod055vsku2bdhf30kav04arr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzJcd9pDrcUksQBTVjzv5UdOGA0y8XXfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115272246594-3eonspduod055vsku2bdhf30kav04arr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
